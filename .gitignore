@@ -1,0 +1,7 @@
+node_modules
+
+# JS should be built from ts
+*.js
+
+#IDE stuff
+.idea
